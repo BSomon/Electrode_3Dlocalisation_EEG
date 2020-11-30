@@ -15,6 +15,8 @@ The metrics are:
  - Dist_interelec_norm: Interelectrode disctance after normalization
  - Dist_ref: Distance to the standard (reference) electrodes
 
+T-tests give: the distribution of inter-electrode distances and of the distances to the standard electrodes.
+
 The reference template needs to be provided as a CED file at the beginning.
 
 If you have any error/difficulty contact me: bertillesomon@gmail.com
